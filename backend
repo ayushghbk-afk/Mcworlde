@@ -1,0 +1,15 @@
+mcworld-editor/
+│
+├── /
+│   ├── server.js
+│   ├── package.json
+│   ├── uploads/
+│   └── worlds/
+│
+├── frontend/
+│   ├── index.html
+│   ├── script.js
+│   └── style.css
+│
+├── README.md
+└── .gitignore
